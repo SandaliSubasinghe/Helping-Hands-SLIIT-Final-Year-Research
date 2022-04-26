@@ -1,2 +1,3 @@
-# Social-Media-Early-Suicide-Detection-Flask-App
-# Helping-Hand-AWS-Integration
+# Final Year Research 
+
+This is the Helping-Hand-AWS-Integration of SLIIT Final Research Project
